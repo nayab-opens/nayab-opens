@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I’m a third-year **Networking & Information Security** student at **Ontario Tech University**, interested in **cybersecurity, networking, and system security**.
+I’m a fourth-year **Networking & Information Security** student at **Ontario Tech University**, interested in **cybersecurity, networking, and system security**.
 
 - 🔐 Focused on cybersecurity and secure systems  
 - 🌐 Studying networking concepts, protocols, and infrastructure  
